@@ -18,7 +18,7 @@
 *L 48*: in `FillinInterimdata.Pooled` suggestion on code cleaning for final edition -- crucial part is around line 168 
 (I did not check whether the error also holds for the per-arm function `FillinInterimdata.byArm`)
 
-
+# test code
 ```
 geneRate <- function(N, rate,seed=NULL){
     ## changing the 'rate' parameter to a form that gives the
