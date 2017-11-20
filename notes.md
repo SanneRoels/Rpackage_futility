@@ -1,5 +1,3 @@
-# remarks Sanne Roels
-
 ## for the implementation of the mixture part
 *L 660*: the inclusion of 3 extra parameters (`MIXTURE`, `mix.weights` and `eventPriorWeightRobust` ) in the function `completeTrial.pooledArms`.
 
